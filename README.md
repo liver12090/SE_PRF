@@ -1,5 +1,5 @@
 # SE_PRF
-NXB
+NguyenXuanBach
 HE176802
 08102003
 SE
